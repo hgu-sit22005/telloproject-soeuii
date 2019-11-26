@@ -5,7 +5,7 @@ cmake . ../
 
 # How to compile the project
 ```
-make
+~/TelloProject/build# make
 ```
 
 # How to execute the program
